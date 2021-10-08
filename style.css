@@ -1,0 +1,10 @@
+#searchForm{
+    background-color: beige;
+    width: 85px;
+
+}
+#search{
+    border-radius: 10px;
+    color: coral;
+    background-color: blueviolet;
+}
